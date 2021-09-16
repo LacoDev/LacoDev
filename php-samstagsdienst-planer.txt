@@ -1,0 +1,14 @@
+# Logik-Notizen:
+- Tableobjekt ohne Tableheader
+- Erste Row im Tablebody (...)
+- Zweite Row im Tablebody Anfangdatum und Endedatum der jeweiligen Kalenderwoche
+- Dritte Row Anzeige der jeweiligen Kalenderwoche
+
+# Notwendig, um Tabelle zu bilden:
+- Festgelegter Zeitraum von welcher Kalenderwoche bis zu welcher Kalenderwoche die Tabelle reichen soll
+- Darauß ergibt sich eine Gesamtgröße der Tabelle (wichtig für die Datenbank-Speicherung)
+- Namen der Azubis / Anzahl der Reihen (ebenfalls wichtig für die Datenbank)
+- Letzte Reihe nicht voll ausgefüllt (Legende / Farben der wichtigen Felder)
+- OnClick Trigger in jede einzelne Cell der Tabelle einbauen, welche eine Javascript Function aufruft, welche eine 
+AJAX POST Request mit allen wichtigen Parametern an ein PHP Script stellt, welches dann anschließend die Daten in eine DB einträgt.
+- Sofortiges Update für Eingabemnaske und Azubi-Seite
