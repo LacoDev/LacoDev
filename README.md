@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on [StaffCore-Bungee](https://github.com/LacoDev/StaffCore-Bungee)
 
-- 🌱 I’m currently learning **VB.net**
-
 - 💬 Ask me about **Java and PHP**
 
 <h3 align="left">Connect with me:</h3>
