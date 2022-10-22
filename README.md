@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/lukassommerfeld" target="blank"><img src="https://img.shields.io/twitter/follow/lukassommerfeld?logo=twitter&style=for-the-badge" alt="lukassommerfeld" /></a> </p>
 
-- 🔭 I’m currently working on [StaffCore-Bungee](https://github.com/LacoDev/StaffCore-Bungee)
+- 🔭 Retired from Development of [StaffCore-Bungee](https://github.com/LacoDev/StaffCore-Bungee)
 
-- 💬 Ask me about **Java and PHP**
+- 💬 Ask me about **Java, PHP and Javascript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
